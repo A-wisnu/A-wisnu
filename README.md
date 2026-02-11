@@ -30,16 +30,15 @@ Professional developer specialized in building scalable web applications and rob
 
 ---
 
-### 📊 Statistics
+### 📈 GitHub Activities
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=A-wisnu&show_icons=true&theme=transparent" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-wisnu&layout=compact&theme=transparent" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=A-wisnu&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ---
 
 <div align="center">
 
-*© 2025 Wisnu Hidayat. All rights reserved.*
+*Professional GitHub Profile*
 
 </div>
