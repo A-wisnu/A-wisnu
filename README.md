@@ -14,7 +14,6 @@ Professional developer specialized in building scalable web applications and rob
 
 - 🌍 Based in Jepara, Indonesia
 - ✉️ [ikanberenang50@gmail.com](mailto:ikanberenang50@gmail.com)
-- 🚀 Portfolio: [wisnu-hidayat.vercel.app](https://wisnu-hidayat.vercel.app)
 
 ---
 
@@ -32,12 +31,9 @@ Professional developer specialized in building scalable web applications and rob
 ---
 
 ### 📊 Statistics
-
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=A-wisnu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-wisnu&layout=compact&langs_count=8&theme=tokyonight"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=A-wisnu&show_icons=true&theme=transparent" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-wisnu&layout=compact&theme=transparent" />
 </div>
 
 ---
